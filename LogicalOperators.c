@@ -15,4 +15,4 @@ int main(){
         printf("Neither number is positive\n");
     }
     return 0;
-}   
+}  
